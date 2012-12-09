@@ -1,2 +1,1 @@
-test
-====
+Project Skeleton – Copy/Paste
